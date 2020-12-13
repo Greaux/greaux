@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on Pireon.pro (Game)
 - 🌱 I’m currently learning GoLang
 - 😄 Pronouns: Greaux
-- 📫 How to reach me: [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/greaux)/VK/Discord
+- 📫 How to reach me: [![Telegram]()](https://t.me/greaux)/VK/Discord
 <!--
 **Greaux/greaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/greaux)
+[![Telegram]()](https://t.me/greaux)
 
 Here are some ideas to get you started:
 
