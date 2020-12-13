@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Pireon](https://pireon.pro) (MMORPG Game)
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning GoLang/C++
 - 😄 Pronouns: Greaux
+- 💬 Ask me about IT Security
 - 📫 How to reach me: [TG](https://t.me/greaux)/[VK](https://vk.com/greaux)/Discord: Greaux#0215
+- ⚡ Fun fact: Not all frogs can "croak". The goliath frog is considered mute, and some other species even sing at all. Some frogs can not only sing, but also grumble, and ring, and groan.
 <!--
 **Greaux/greaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
