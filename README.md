@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Pireon.pro (Game)
 - 🌱 I’m currently learning GoLang
 - 😄 Pronouns: Greaux
-- 📫 How to reach me: [![Telegram]()](https://t.me/greaux)/VK/Discord
+- 📫 How to reach me: [![Telegram](https://t.me/greaux)]/[![VK]()](VK)/Discord
 <!--
 **Greaux/greaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
