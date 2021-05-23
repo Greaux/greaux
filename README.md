@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![HitCount](http://hits.dwyl.com/greaux/greaux/greaux.svg)](http://hits.dwyl.com/greaux/greaux/greaux)
 
 You can donate me: 
 - ₿ BTC - bc1qvzwl27z2y5q0ak0kc2q8pf7zy7qgv8rz86d6ph
