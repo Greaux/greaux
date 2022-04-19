@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Pireon](https://pireon.pro) (MMORPG Game)
+- 🔭 I’m currently working on [NTOP(New Tales of Pirates](https://newtalesofpirates.com/) [Pireon (Suspended)](https://pireon.pro) (MMORPG Game)
 - 🌱 I’m currently learning GoLang/C++
 - 😄 Pronouns: Greaux
 - 💬 Ask me about IT Security
