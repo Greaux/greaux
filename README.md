@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [NTOP(New Tales of Pirates)](https://newtalesofpirates.com/) (MMORPG) | [Pireon (Suspended)](https://pireon.pro)
-- 🌱 I’m currently learning GoLang/C++
+- 🌱 I’m currently learning GoLang/C++/Python
 - 😄 Pronouns: Greaux
-- 💬 Ask me about IT Security
+- 💬 Ask me about IT Security | DevOps
 - 📫 How to reach me: [TG](https://t.me/greaux)/[VK](https://vk.com/greaux)/Discord: Greaux#0215
 - ⚡ Fun fact: Not all frogs can "croak". The goliath frog is considered mute, and some other species even sing at all. Some frogs can not only sing, but also grumble, and ring, and groan.
 <!--
