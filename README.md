@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 You can donate me: 
-  - TON - [EQBqnyu-wHLwjthA8jKdwcVll1UQBTFif7vTzyU4hcTJMDCh](this-address-is-not-a-scam.ton)
+  - TON - [EQBqnyu-wHLwjthA8jKdwcVll1UQBTFif7vTzyU4hcTJMDCh](ton://this-address-is-not-a-scam.ton)
   - SOL - 4RBt8A2c5MFVTtr6Equceexk1YmucSnzwNeCMHt84d51
   - BTC - bc1q6u3rxfcap2j3lrg5499ndf7wylh9eejphwdguu
   - ETH - 0x109B7584CCbdC3Dc117BE8fA23b9000a0D04Cd34
