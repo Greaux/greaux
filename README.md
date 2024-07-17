@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MMORPG (name hidden for some reasons)
-- 🌱 I’m currently learning GoLang/C++/Python
+- 🔭 I’m currently working on SAST analyzer
+- 🌱 I’m currently learning GoLang/Python
 - 😄 Pronouns: Greaux
 - 💬 Ask me about IT Security | DevOps | Networks
 - 📫 How to reach me: [TG](https://t.me/greaux)/[VK](https://vk.com/greaux)/Discord: Greaux
