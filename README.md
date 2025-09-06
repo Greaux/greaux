@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 You can donate me: 
-  - TON - [EQBqnyu-wHLwjthA8jKdwcVll1UQBTFif7vTzyU4hcTJMDCh](ton://this-address-is-not-a-scam.ton)
+  - TON - [UQBqnyu-wHLwjthA8jKdwcVll1UQBTFif7vTzyU4hcTJMG1k](ton://this-address-is-not-a-scam.ton)
